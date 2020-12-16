@@ -1,3 +1,4 @@
 # influx-cli
 
-bin libray
+bin library for https://github.com/patdz/homebrew-influx-cli
+
